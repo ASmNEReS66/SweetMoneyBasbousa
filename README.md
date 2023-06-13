@@ -23,7 +23,7 @@ my personal account
 
 ### Connect with Me :
 
-<a href="linkedin.com/in/abdelrahman-salah-a94696180" target="_blank"><img src="https://img.shields.io/badge/-AbdelRahman%20Salah-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdelrahman-salah-a94696180/" target="_blank"><img src="https://img.shields.io/badge/-AbdelRahman%20Salah-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/BODA1827" target="_blank"><img src="https://img.shields.io/badge/-AbdelRahman%20Salah-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
